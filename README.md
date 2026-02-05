@@ -11,7 +11,7 @@ Por tanto, en este proyecto:
 -Analicé la correlación entre congestión vehicular y productividad económica que resultó en identificar ciudades prioritarias para inversión del Latin American Development Bank usando análisis exploratorio y visualización de datos.
 -Logro o impacto: Generé recomendaciones estratégicas para inversión en infraestructura de transporte basadas en análisis cuantitativo de movilidad urbana y PIB per cápita.
 
-## Análisis Realizado
+## 🔍 Análisis Realizado
 - Limpieza y procesamiento de datos
 - Análisis exploratorio de datos (EDA)
 - Visualizaciones interactivas
@@ -23,7 +23,7 @@ Por tanto, en este proyecto:
 - Matplotlib/Seaborn/NumPy
 - Jupyter Notebook
   
-##📈 Conclusiones Principales
+## 📈 Conclusiones Principales
 - Los resultados muestran que la relación entre congestión y productividad no es lineal. Ciudades con alta actividad económica pueden presentar congestión moderada sin afectar negativamente su PIB per cápita. Sin embargo, niveles extremos y persistentes de congestión, sí se asocian con menores niveles de productividad económica.
 - Relación congestión vs productividad 🇦🇷 Buenos Aires (ARG), tiene GDP per cápita: relativamente alto. No hay una señal fuerte de que la congestión esté “ahogando” la economía. México: congestión muy alta, pero PIB per cápita también alto → la economía absorbe el costo. Uruguay: PIB alto + congestión mínima → sistema eficiente.
 - Caso crítico: Colombia (Bogotá). PIB per cápita: 11,442 (medio–bajo). Congestión: 1,141 (muy alta). Congestión comparable a México, pero sin el respaldo económico. Mucho tiempo perdido con bajo retorno económico. Colombia muestra la peor relación congestión / productividad del conjunto. Bogotá (Colombia) es la ciudad que: combina alta congestión, con baja productividad relativa, mostrando la correlación negativa más preocupante del conjunto.
